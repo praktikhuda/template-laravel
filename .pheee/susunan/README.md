@@ -6,3 +6,4 @@ Tabel referensi pemetaan controller / modul ke file detail susunan fungsi:
 | :--- | :--- | :--- |
 | Base Controller | `base_controller.md` | `app/Http/Controllers/Controller.php` |
 | Dashboard Keuangan | `dashboard_view.md` | `resources/views/dashboard.blade.php` |
+| Dashboard Simple (SaaS) | `dashboard_simple_view.md` | `resources/views/dashboard-simple.blade.php` |

@@ -55,6 +55,10 @@ Patuhi alur kerja berdasarkan perintah pengguna:
 - Deteksi stack proyek aktif saat ini (Laravel Blade, Vue/Nuxt, Tailwind, DaisyUI).
 - Terapkan layout / komponen ke dalam proyek aktif sesuai standar struktur proyek tersebut.
 - Pasang styling token yang presisi sesuai yang tertera pada `spec.md`.
+- **Wajib Sinkronisasi Triad Integritas Sistem (.pheee/ Guard):**
+  1. Buat berkas susunan modul baru di `.pheee/susunan/<nama_modul>.md` (Format Varian A untuk Frontend/View) dan daftarkan ke tabel `.pheee/susunan/README.md`.
+  2. Tambahkan jalur berkas baru ke visual tree `.pheee/structure.md`.
+  3. Catat 1 baris ringkasan aksi di baris teratas `.pheee/changelog.md`.
 
 ---
 
